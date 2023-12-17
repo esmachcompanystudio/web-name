@@ -1,0 +1,12 @@
+
+<ul class="list" id="list">
+  <!-- ... Listado existente ... -->
+
+  <!-- Nueva tarjeta: Iluminación ecológica -->
+  <li class="list__item">
+    <a href="{{ size + '/eco_light' }}">
+      <img class="item__img" src="../static/img/eco_light.svg" alt="eco_light">
+      <span>Iluminación Ecológica</span>
+    </a>
+  </li>
+</ul>
